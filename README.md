@@ -14,7 +14,6 @@ Click "Add" Then "Add Login Script"
 ![alt text](https://github.com/Catnader/auto-start-update-neon/blob/main/setup4.png)
 Select The script
 ![alt text](https://github.com/Catnader/auto-start-update-neon/blob/main/setup5.png)
-If everthing is set correctly the settings window should look like this:
 
 
 
